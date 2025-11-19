@@ -1,5 +1,6 @@
 # MARKOV IS COMING
 
+Markov is coming Aceasta problema urmareste simularea unui robotel intr-un labirint folosind lanturi Markov. Se cere construirea matricelor care descriu labirintul (matricea de adiacenta si cea a legaturilor) si calcularea probabilitatii de a ajunge la o iesire castigatoare rezolvand un sistem de ecuatii liniare prin metoda iterativa Jacobi . La final, se genereaza un drum valid prin labirint folosind un algoritm euristic
 ---
 
 ## parse\_labyrinth
@@ -73,6 +74,7 @@
 
 # LINEAR REGRESSION
 
+Linear Regression In acest task se implementeaza un model de regresie liniara pentru a prezice pretul unor apartamente pe baza mai multor caracteristici. Scopul este minimizarea erorilor modelului folosind algoritmi de optimizare precum Gradient Descent si metoda Gradientului Conjugat (Normal Equation). De asemenea, se aplica tehnici de regularizare (Lasso si Ridge) pentru a face modelul mai eficient pe date noi.
 ---
 
 ## parse\_data\_set\_file
@@ -136,6 +138,7 @@
 
 # MINST 101
 
+MNIST 101 Ultima problema presupune crearea unei retele neurale pentru a recunoaste si clasifica cifre scrise de mana (de la 0 la 9) din setul de date MNIST. Se construieste o retea cu un strat ascuns, implementand procesul de predictie (forward propagation) si procesul de antrenare si ajustare a erorilor (backpropagation) pentru a optimiza recunoasterea imaginilor.
 ---
 
 ## split\_dataset
